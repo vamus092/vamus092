@@ -70,6 +70,10 @@
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vamus092&theme=synthwave&center=true" />
   </td>
 </tr>
+   </td>
+  <td align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vamus092&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)" />
+  </td>
 </table>
 
 <div align="center">
