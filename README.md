@@ -63,21 +63,27 @@
   </td>
 </tr>
 </table>
+      </br>
 ## 💫 Github Stats
+
 <table>    
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vamus092&theme=synthwave&center=true" />
+<tr>    
   </td>
-</tr>
-   </td>
   <td align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=vamus092&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)" />
   </td>
+</tr>
+</table>
+<table>
+  <tr>
+      <td align="center">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vamus092&theme=synthwave&center=true" />
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=vamus092&theme=dracula&column=4" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=vamus092&theme=dracula&column=5" /> 
 </div>
 
 <table>    
