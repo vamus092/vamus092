@@ -1,6 +1,3 @@
-
-
-![front](https://github.com/vamus092/vamus092/assets/139239891/4d8ff902-0dcd-457c-a61a-feacb8728935)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+DVamus092....;Nice+to+meet+you!&center=true&size=25">
