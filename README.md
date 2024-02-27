@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVA,JAVASCRIPT,C,PYTHON**
 
-- 📫 How to reach me **https://www.linkedin.com/in/suvam-das-aa7318235/**
+- 📫 How to reach me **https://www.linkedin.com/in/suvamd/**
 
 - ⚡ Fun fact **I'm also a Artist & hyper realism sketching enthusiast**
 
