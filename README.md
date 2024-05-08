@@ -16,8 +16,6 @@
 
 👀 I’m interested in Web Dev, Front End & Graphics Designing
 
-🌱 I’m currently learning blockChain using Web3 &Soledity
-
 💞️ I’m looking to collaborate on especially Front End UI
 
 - 🌱 I’m currently persuing B.Tech at **ACADEMY OF TECHNOLOGY**
