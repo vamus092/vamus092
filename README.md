@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamus092&label=Profile%20views&color=0e75b6&style=flat" alt="vamus092" /> </p>
 
-- 👋 Hi, I’m @vamus092
+- 👋 Hi, I’m @vamusxd
 
 👀 I’m interested in Web Dev, Front End & Graphics Designing
 
@@ -22,7 +22,7 @@
 
 - I have participated in two open source contribution programme HACTOBER FEST 2023 and Interhactive Hackathon an interbranch hackathon in our college
 
-- 💬 Ask me about **HTML,CSS,JAVA,JAVASCRIPT,C,PYTHON**
+- 💬 Ask me about **HTML,CSS,JAVA,JAVASCRIPT,C,Tailwind Css**
 
 - 📫 How to reach me **https://www.linkedin.com/in/suvamd/**
 
