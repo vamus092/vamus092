@@ -29,6 +29,11 @@
 - ⚡ Fun fact **I'm also a Artist & hyper realism sketching enthusiast**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<h4 align="left">My Badges:</h4>
+
+[![An image of @vamus092's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vamus092)](https://holopin.io/@vamus092)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/suvam-das-aa7318235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suvam Das" height="30" width="40" /></a>
@@ -145,12 +150,6 @@
     <img src="https://github.com/apu52/apu52/blob/main/github-metrics.svg" />
 </details>
 -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-<h4 align="left">My Badges:</h4>
-
-[![An image of @vamus092's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vamus092)](https://holopin.io/@vamus092)
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 <!---
