@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently persuing B.Tech at **ACADEMY OF TECHNOLOGY**
 
-- I have participated in two open source contribution programme HACTOBER FEST 2023 and Interhactive Hackathon an interbranch hackathon in our college
+- I have participated in two open source contribution programme HACTOBER FEST 2023/2024 and Interhactive Hackathon an interbranch hackathon in our college
 
-- 💬 Ask me about **HTML,CSS,JAVA,JAVASCRIPT,C,Tailwind Css**
+- 💬 Ask me about **HTML,Next Js,JAVA,React Js,C,Tailwind Css**
 
 - 📫 How to reach me **https://www.linkedin.com/in/suvamd/**
 
