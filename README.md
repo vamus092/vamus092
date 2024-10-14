@@ -14,9 +14,9 @@
 
 - 👋 Hi, I’m @vamusxd
 
-👀 I’m interested in Web Dev, Front End & Graphics Designing
+- 👀 I’m interested in Web Dev, Front End & Graphics Designing
 
-💞️ I’m looking to collaborate on especially Front End UI
+- 💞️ I’m looking to collaborate on especially Front End UI
 
 - 🌱 I’m currently persuing B.Tech at **ACADEMY OF TECHNOLOGY**
 
